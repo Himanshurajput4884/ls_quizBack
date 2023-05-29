@@ -1,0 +1,72 @@
+[
+    {
+      "ques": "On how many islands is Venice located in the Venetian Lagoon on the Adriatic Sea?",
+      "opt1": "On seven",
+      "opt2": "On fifty-five",
+      "opt3": "On one hundred and eighteen",
+      "answer": "On one hundred and eighteen"
+    },
+    {
+      "ques": "Which European city is the world's northernmost city with a population of more than one million people?",
+      "opt1": "St. Petersburg",
+      "opt2": "Helsinki",
+      "opt3": "Oslo",
+      "answer": "St. Petersburg"
+    },
+    {
+      "ques": "Which city has Norway's longest and deepest fjord?",
+      "opt1": "Olesund",
+      "opt2": "Trondheim",
+      "opt3": "Bergen",
+      "answer": "Bergen"
+    },
+    {
+      "ques": "Where does Munich's famous Oktoberfest folk festival begin in the fall?",
+      "opt1": "Theresienwiese",
+      "opt2": "Marienplatz",
+      "opt3": "The Englischer Garten",
+      "answer": "Theresienwiese"
+    },
+    {
+      "ques": "Which Spanish city is considered the birthplace of the flamenco dance?",
+      "opt1": "Madrid",
+      "opt2": "Seville",
+      "opt3": "Barcelona",
+      "answer": "Seville"
+    },
+    {
+      "ques": "On the banks of which river is the German city of Bremen located?",
+      "opt1": "Weser",
+      "opt2": "Elbe",
+      "opt3": "Oder",
+      "answer": "Weser"
+    },
+    {
+      "ques": "On the western slope of which volcano is the city of Naples located?",
+      "opt1": "Etna",
+      "opt2": "Solfatara",
+      "opt3": "Vesuvius",
+      "answer": "Vesuvius"
+    },
+    {
+      "ques": "On which bay is the French city of Marseille located?",
+      "opt1": "Gulf of Lyon",
+      "opt2": "Bay of Biscay",
+      "opt3": "Gulf of Morbihan",
+      "answer": "Gulf of Lyon"
+    },
+    {
+      "ques": "Which of Finland's cities is traditionally considered 'Christmas'? The country's main Christmas tree is erected here.",
+      "opt1": "Lappeenranta",
+      "opt2": "Turku",
+      "opt3": "Lahti",
+      "answer": "Turku"
+    },
+    {
+      "ques": "Which city in Bulgaria has an ancient stadium from the time of Emperor Hadrian?",
+      "opt1": "Varna",
+      "opt2": "Sozopol",
+      "opt3": "Plovdiv",
+      "answer": "Plovdiv"
+    }
+  ]

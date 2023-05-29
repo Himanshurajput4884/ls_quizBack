@@ -1,0 +1,142 @@
+[
+    {
+      "ques": "What kind of tomatoes do you use to make the original Neapolitan pizza?",
+      "opt1": "Canestrino",
+      "opt2": "Grosso Corbarino",
+      "opt3": "San Marzano",
+      "answer": "San Marzano"
+    },
+    {
+      "ques": "What cuisine is hodgepodge of olives and lemon?",
+      "opt1": "Italian",
+      "opt2": "Greek",
+      "opt3": "German",
+      "answer": "German"
+    },
+    {
+      "ques": "What was the main vegetable in Russia before the mass spread of potatoes in the second half of the 19th century?",
+      "opt1": "Peas",
+      "opt2": "Turnip",
+      "opt3": "Cabbage",
+      "answer": "Turnip"
+    },
+    {
+      "ques": "In what country is bear meat considered a great delicacy? In its national cuisine you can find a dish called 'bear paw soup'.",
+      "opt1": "Vietnam",
+      "opt2": "Cambodia",
+      "opt3": "China",
+      "answer": "Cambodia"
+    },
+    {
+      "ques": "Which country was the main consumer of kangaroo meat from Australia until 2009?",
+      "opt1": "Russia",
+      "opt2": "Kazakhstan",
+      "opt3": "Germany",
+      "answer": "Russia"
+    },
+    {
+      "ques": "What is a maktak or muktuk dish, a traditional food of Eskimos and Chukchi?",
+      "opt1": "The blood and meat of seals",
+      "opt2": "Frozen whale skin and bacon",
+      "opt3": "Whipped fat with berries",
+      "answer": "Frozen whale skin and bacon"
+    },
+    {
+      "ques": "What is used instead of wine in mulled wine in some recipes?",
+      "opt1": "Vodka or whiskey",
+      "opt2": "Becherovka or Schnapps",
+      "opt3": "Cognac or rum",
+      "answer": "Cognac or rum"
+    },
+    {
+      "ques": "Which combination is traditional in Georgian cuisine?",
+      "opt1": "Spicy and spicy",
+      "opt2": "Salty and sweet",
+      "opt3": "Bitter and very spicy",
+      "answer": "Spicy and spicy"
+    },
+    {
+      "ques": "What is the name of a small French cookie or smitten, the size of which is designed for one bite?",
+      "opt1": "Mille-feuille.",
+      "opt2": "Petit four",
+      "opt3": "Macaron",
+      "answer": "Petit four"
+    },
+    {
+      "ques": "What is falafel, a dish from traditional Egyptian cuisine, made of?",
+      "opt1": "Baked or fried eggplant.",
+      "opt2": "Dried or pureed beans in lemon sauce.",
+      "opt3": "Oil-fried balls of grated beans, usually chickpeas, with spices.",
+      "answer": "Oil-fried balls of grated beans, usually chickpeas, with spices."
+    },
+    {
+      "ques": "Kasseler - in Germany, Austria, and Switzerland, traditionally salted in brine and lightly smoked ...",
+      "opt1": "pork",
+      "opt2": "lamb",
+      "opt3": "beef",
+      "answer": "pork"
+    },
+    {
+      "ques": "In which country is the traditional national dish of the polar or giant shark meat that has been fragmented and then cured?",
+      "opt1": "Iceland",
+      "opt2": "Norway",
+      "opt3": "Alaska",
+      "answer": "Iceland"
+    },
+    {
+      "ques": "The name of which Italian dish originally described a cooking pot.",
+      "opt1": "Ravioli",
+      "opt2": "Lasagna",
+      "opt3": "Pancetta",
+      "answer": "Lasagna"
+    },
+    {
+      "ques": "What is tyurya, a traditional dish of Russian, Belarusian and Ukrainian cuisine?",
+      "opt1": "Fish soup with peas",
+      "opt2": "Noodle and turnip soup",
+      "opt3": "Bread okroshka, sometimes with onions",
+      "answer": "Bread okroshka, sometimes with onions"
+    },
+    {
+      "ques": "What is the name of a traditional Christmas dish that is popular in Central Europe and especially in the Czech Republic?",
+      "opt1": "Christmas Carp",
+      "opt2": "Christmas Eve bream",
+      "opt3": "Lenten Cupid",
+      "answer": "Christmas Carp"
+    },
+    {
+      "ques": "What is the original spinach made of?",
+      "opt1": "Of 30% pig meat, 40% young cow or beef, and 30% lard",
+      "opt2": "Of 50% pork, 10% beef, and 20% sliced fat, 20% offal",
+      "opt3": "Of 50% beef or veal, 20% pork without skin, and 30% sliced fat",
+      "answer": "Of 50% beef or veal, 20% pork without skin, and 30% sliced fat"
+    },
+    {
+      "ques": "One of the most popular wine drinks of which country is sangria?",
+      "opt1": "Italy",
+      "opt2": "Spain",
+      "opt3": "France",
+      "answer": "Spain"
+    },
+    {
+      "ques": "What is one of the three ways to prepare asado, a fried meat dish common in South America?",
+      "opt1": "Meat, not removed from the skin, is grilled on one side.",
+      "opt2": "A giant turtle is turned shell side down and suspended over a fire.",
+      "opt3": "The snake is threaded on a skewer and secured over an open fire, turning periodically.",
+      "answer": "Meat, not removed from the skin, is grilled on one side."
+    },
+    {
+      "ques": "By what name did a French chef serve frog legs for the Prince of Wales and his entourage?",
+      "opt1": "The tender meat of the morning dawn.",
+      "opt2": "The naiad of purple dreams.",
+      "opt3": "The nadia of dawn nymphs.",
+      "answer": "The nadia of dawn nymphs."
+    },
+    {
+      "ques": "Turkish kofta is a dish with .",
+      "opt1": "meatballs",
+      "opt2": "apples",
+      "opt3": "salted mango",
+      "answer": "meatballs"
+    }
+  ]

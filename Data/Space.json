@@ -1,0 +1,121 @@
+[
+    {
+      "ques": "Which planet has been 'demoted' from ordinary to dwarf?",
+      "opt1": "Neptune",
+      "opt2": "Pluto",
+      "opt3": "Ceres",
+      "answer": "Pluto"
+    },
+    {
+      "ques": "What does the term 'exoplanet' mean?",
+      "opt1": "Dead planets",
+      "opt2": "Planets outside the solar system",
+      "opt3": "Exotic planets",
+      "answer": "Planets outside the solar system"
+    },
+    {
+      "ques": "Did you know there is a Lunar embassy? What does this organization do?",
+      "opt1": "It sells land on the Moon, Mars and other planets",
+      "opt2": "It represents the interests of earthlings in contact with other civilizations",
+      "opt3": "It is an intergovernmental body that coordinates the process and procedure of lunar exploration",
+      "answer": "It sells land on the Moon, Mars and other planets"
+    },
+    {
+      "ques": "Scientists claim that there may be over 100 billion exoplanets in the galaxy. How many of them are believed to be Earth-like?",
+      "opt1": "About 50%",
+      "opt2": "Between 5 and 20%",
+      "opt3": "No more than 1%",
+      "answer": "Between 5 and 20%"
+    },
+    {
+      "ques": "When did the longest private eclipse of Earth's only natural satellite occur (up to 98% of the Moon's surface at maximum phase) in the last 5 centuries of observation?",
+      "opt1": "November 1957",
+      "opt2": "November 2021",
+      "opt3": "June 2019",
+      "answer": "November 2021"
+    },
+    {
+      "ques": "Most of the planets in the solar system have natural satellites, many with more than one. And only two planets of them have none at all. These are ...",
+      "opt1": "Mercury and Pluto",
+      "opt2": "Makemake and Mercury",
+      "opt3": "Mercury and Venus",
+      "answer": "Mercury and Venus"
+    },
+    {
+      "ques": "According to one theory, a planet can leave a star and leave its orbit for free. What are such planets called?",
+      "opt1": "Orphan planets",
+      "opt2": "Traitor planets",
+      "opt3": "Lost planets",
+      "answer": "Orphan planets"
+    },
+    {
+      "ques": "What is the name given to objects that, although they have the mass of planets, do not meet the usual notion of planets?",
+      "opt1": "Planemo",
+      "opt2": "Quasar",
+      "opt3": "Wanderer",
+      "answer": "Planemo"
+    },
+    {
+      "ques": "The orbit of the planets is a complex phenomenon. It includes a number of elements. Which of these is not included?",
+      "opt1": "Inclination",
+      "opt2": "Eccentricity",
+      "opt3": "Spectral class",
+      "answer": "Spectral class"
+    },
+    {
+      "ques": "We call Mars the 'red planet.' Which mineral gives it that color?",
+      "opt1": "Megamite",
+      "opt2": "Kuprite",
+      "opt3": "Magnetic ironstone",
+      "answer": "Megamite"
+    },
+    {
+      "ques": "Which planet in the solar system has a day only 39 minutes longer than Earth?",
+      "opt1": "Mars",
+      "opt2": "Venus",
+      "opt3": "Haumea",
+      "answer": "Mars"
+    },
+    {
+      "ques": "This planet's atmosphere is 95% carbon dioxide. What planet is this?",
+      "opt1": "Pluto",
+      "opt2": "Uranus",
+      "opt3": "Mars",
+      "answer": "Mars"
+    },
+    {
+      "ques": "Which country's vehicles performed work on Mars in 2021?",
+      "opt1": "Russia and the US",
+      "opt2": "China and the US",
+      "opt3": "Russia, China, and the U.S",
+      "answer": "China and the US"
+    },
+    {
+      "ques": "India's Chandrayaan-1 space probe discovered 600 million tons of water at the North Pole of this planet's satellite. What planet is it?",       
+      "opt1": "Venus",
+      "opt2": "Earth",
+      "opt3": "Mars",
+      "answer": "Earth"
+    },
+    {
+      "ques": "The gas giants are the largest planets in the solar system. They are ...",
+      "opt1": "Jupiter and Saturn",
+      "opt2": "Uranus and Mercury",
+      "opt3": "Neptune and Mercury",
+      "answer": "Jupiter and Saturn"
+    },
+    {
+      "ques": "It is known that all planets in the solar system are divided into groups according to their composition and size. Which group of planets does not exist?",
+      "opt1": "Earth group",
+      "opt2": "Ice giants",
+      "opt3": "Martian group",
+      "answer": "Martian group"
+    },
+    {
+      "ques": "Between the orbits of Jupiter and Neptune are a group of asteroids with unstable elongated orbits. What are they called?",
+      "opt1": "Cyclops",
+      "opt2": "Centaurs",
+      "opt3": "Icarus",
+      "answer": "Centaurs"
+    }
+  ]

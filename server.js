@@ -7,7 +7,7 @@ const connection = require("./db/db");
 const cassandra = require("cassandra-driver");
 const datacenter="datacenter1";
 const contactPoints = ['localhost'];
-const keyspace = "lsQuiz";
+const keyspace = "quizes";
 dotenv.config();
 
 const client = new cassandra.Client({

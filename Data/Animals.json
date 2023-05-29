@@ -1,0 +1,72 @@
+[
+    {
+      "ques": "What is the largest bird in the world?",
+      "opt1": "Ostrich",
+      "opt2": "Bald eagle",
+      "opt3": "Emu",
+      "answer": "Ostrich"
+    },
+    {
+      "ques": "What is the only mammal that can fly?",
+      "opt1": "Bat",
+      "opt2": "Flying squirrel",
+      "opt3": "Lemur",
+      "answer": "Bat"
+    },
+    {
+      "ques": "What animal has the longest lifespan?",
+      "opt1": "Bowhead whale",
+      "opt2": "Galapagos tortoise",
+      "opt3": "Elephant",
+      "answer": "Galapagos tortoise"
+    },
+    {
+      "ques": "Which animal can change the color of its skin to blend in with its surroundings?",
+      "opt1": "Chameleon",
+      "opt2": "Octopus",
+      "opt3": "Cuttlefish",
+      "answer": "Chameleon"
+    },
+    {
+      "ques": "What animal has the highest blood pressure of any mammal?",
+      "opt1": "Giraffe",
+      "opt2": "Blue whale",
+      "opt3": "Elephant seal",
+      "answer": "Elephant seal"
+    },
+    {
+      "ques": "What is the smallest mammal in the world?",
+      "opt1": "Bat",
+      "opt2": "Mouse lemur",
+      "opt3": "Pygmy shrew",
+      "answer": "Pygmy shrew"
+    },
+    {
+      "ques": "What animal has the longest tongue relative to its body size?",
+      "opt1": "Giraffe",
+      "opt2": "Anteater",
+      "opt3": "Chameleon",
+      "answer": "Anteater"
+    },
+    {
+      "ques": "Which bird can run the fastest on land?",
+      "opt1": "Ostrich",
+      "opt2": "Peregrine falcon",
+      "opt3": "Roadrunner",
+      "answer": "Ostrich"
+    },
+    {
+      "ques": "What animal has the strongest bite force of any mammal?",
+      "opt1": "Hippopotamus",
+      "opt2": "Jaguar",
+      "opt3": "Grizzly bear",
+      "answer": "Hippopotamus"
+    },
+    {
+      "ques": "What is the only continent where wild lions are not found?",
+      "opt1": "North America",
+      "opt2": "Europe",
+      "opt3": "Australia",
+      "answer": "Australia"
+    }
+  ]

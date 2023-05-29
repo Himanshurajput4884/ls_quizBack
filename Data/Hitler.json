@@ -1,0 +1,72 @@
+[
+    {
+      "ques": "When did Hitler rise to power in Germany?",
+      "opt1": "1935",
+      "opt2": "1933",
+      "opt3": "1931",
+      "answer": "1933"
+    },
+    {
+      "ques": "Where was Adolf Hitler born?",
+      "opt1": "Hallstatt, Austria",
+      "opt2": "Braunau am Inn, Austria",
+      "opt3": "Kufstein, Austria",
+      "answer": "Braunau am Inn, Austria"
+    },
+    {
+      "ques": "What does the term 'Lebensraum' mean?",
+      "opt1": "'an outer space'",
+      "opt2": "'a living space'",
+      "opt3": "'a living country'",
+      "answer": "'a living space'"
+    },
+    {
+      "ques": "When did Hitler invade Poland?",
+      "opt1": "September 1, 1939",
+      "opt2": "August 1, 1939",
+      "opt3": "October 1, 1939",
+      "answer": "September 1, 1939"
+    },
+    {
+      "ques": "Who was Hitler's wife?",
+      "opt1": "Magda Ritschel",
+      "opt2": "Eva Braun",
+      "opt3": "Ilse Pröhl",
+      "answer": "Eva Braun"
+    },
+    {
+      "ques": "How many Jews were murdered during the Holocaust?",
+      "opt1": "At least 3.5 milion",
+      "opt2": "At least 4.5 million",
+      "opt3": "At least 5.5 million",
+      "answer": "At least 5.5 million"
+    },
+    {
+      "ques": "What medal did Hitler receive for bravery in WWI?",
+      "opt1": "Iron Cross 1st Class",
+      "opt2": "Iron Cross, 2nd Class",
+      "opt3": "Grand Cross of the Iron Cross",
+      "answer": "Iron Cross, 2nd Class"
+    },
+    {
+      "ques": "What was the 'Anschluss'?",
+      "opt1": "The annexation of Austria into Nazi Germany",
+      "opt2": "The annexation of Belgium into Nazi Germany",
+      "opt3": "The annexation of France into Nazi Germany",
+      "answer": "The annexation of Austria into Nazi Germany"
+    },
+    {
+      "ques": "Who was Adolf Hitler's chief architect?",
+      "opt1": "Rudolf Hess",
+      "opt2": "Albert Speer",
+      "opt3": "Herman Göring",
+      "answer": "Albert Speer"
+    },
+    {
+      "ques": "What was the code name for the Axis invasion of the Soviet Union?",
+      "opt1": "Operation Ichi-Go",
+      "opt2": "Operation Barbarossa",
+      "opt3": "Operation Walküre",
+      "answer": "Operation Barbarossa"
+    }
+  ]

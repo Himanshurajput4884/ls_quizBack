@@ -1,0 +1,72 @@
+[
+    {
+      "ques": "What is badminton?",
+      "opt1": "A sport",
+      "opt2": "A type of house",
+      "opt3": "A band",
+      "answer": "A type of house"
+    },
+    {
+      "ques": "What is the name of the object that is hit in badminton?",
+      "opt1": "Ball",
+      "opt2": "Shuttlecock",
+      "opt3": "Featherball",
+      "answer": "Shuttlecock"
+    },
+    {
+      "ques": "What is used to hit the shuttlecock in badminton?",
+      "opt1": "Racquets",
+      "opt2": "Legs",
+      "opt3": "Bats",
+      "answer": "Racquets"
+    },
+    {
+      "ques": "Where did the game develop?",
+      "opt1": "Ancient Greece",
+      "opt2": "Ancient Rome",
+      "opt3": "British India",
+      "answer": "British India"
+    },
+    {
+      "ques": "In which year did badminton become an Olympic sport?",
+      "opt1": "1994",
+      "opt2": "1993",
+      "opt3": "1992",
+      "answer": "1992"
+    },
+    {
+      "ques": "Which country was NOT one of the founding members of the International Badminton Federation in 1934?",
+      "opt1": "Denmark",
+      "opt2": "China",
+      "opt3": "Scotland",
+      "answer": "Denmark"
+    },
+    {
+      "ques": "In what year were the first rules of the game written?",
+      "opt1": "1845",
+      "opt2": "1873",
+      "opt3": "1992",
+      "answer": "1873"
+    },
+    {
+      "ques": "How many points does each game play?",
+      "opt1": "18",
+      "opt2": "21",
+      "opt3": "7",
+      "answer": "21"
+    },
+    {
+      "ques": "How many types of main grips are there in badminton?",
+      "opt1": "2",
+      "opt2": "3",
+      "opt3": "1",
+      "answer": "2"
+    },
+    {
+      "ques": "Which sport is badminton compared to?",
+      "opt1": "Volleyball",
+      "opt2": "Baseball",
+      "opt3": "Tennis",
+      "answer": "Tennis"
+    }
+  ]

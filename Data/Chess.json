@@ -1,0 +1,72 @@
+[
+  {
+    "ques": "What is chess?",
+    "opt1": "A team sport",
+    "opt2": "A strategy board game",
+    "opt3": "A video game",
+    "answer": "A strategy board game"
+  },
+  {
+    "ques": "How many squares does the checkered gameboard have?",
+    "opt1": "64",
+    "opt2": "80",
+    "opt3": "62",
+    "answer": "64"
+  },
+  {
+    "ques": "Where is it believed that chess originated?",
+    "opt1": "India",
+    "opt2": "Japan",
+    "opt3": "England",
+    "answer": "India"
+  },
+  {
+    "ques": "How many pieces does each player need to start the game?",
+    "opt1": "18",
+    "opt2": "14",
+    "opt3": "16",
+    "answer": "16"
+  },
+  {
+    "ques": "How many kings does the game have?",
+    "opt1": "2",
+    "opt2": "4",
+    "opt3": "1",
+    "answer": "1"
+  },
+  {
+    "ques": "How many pawns does the game have?",
+    "opt1": "8",
+    "opt2": "9",
+    "opt3": "12",
+    "answer": "8"
+  },
+  {
+    "ques": "What is the most powerful piece of the game?",
+    "opt1": "The pawn",
+    "opt2": "The king",
+    "opt3": "The queen",
+    "answer": "The queen"
+  },
+  {
+    "ques": "What is the objective of the game?",
+    "opt1": "To get all the pawns",
+    "opt2": "To have all the pieces at the end of the game",
+    "opt3": "To checkmate",
+    "answer": "To checkmate"
+  },
+  {
+    "ques": "What colors do the chess pieces have?",
+    "opt1": "Blue and white",
+    "opt2": "Black and white",
+    "opt3": "Yellow and green",
+    "answer": "Black and white"
+  },
+  {
+    "ques": "How can the game end in a draw?",
+    "opt1": "Draw by agreement",
+    "opt2": "Stalemate",
+    "opt3": "Both",
+    "answer": "Both"
+  }
+]

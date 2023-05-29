@@ -1,0 +1,72 @@
+[
+    {
+      "ques": "When was football game invented?",
+      "opt1": "November 1869",
+      "opt2": "November 6, 1869",
+      "opt3": "November 6, 1865",
+      "answer": "November 6, 1869"
+    },
+    {
+      "ques": "How many rules are there in football game?",
+      "opt1": "17",
+      "opt2": "15",
+      "opt3": "11",
+      "answer": "15"
+    },
+    {
+      "ques": "Who has invented the football game?",
+      "opt1": "William Hammersley",
+      "opt2": "Walter Camp",
+      "opt3": "F. M. Campbell",
+      "answer": "F. M. Campbell "
+    },
+    {
+      "ques": "What country has invented the modern football game?",
+      "opt1": "England",
+      "opt2": "Britain",
+      "opt3": "Australia",
+      "answer": "England"
+    },
+    {
+      "ques": "What year Association football and Rugby became famous?",
+      "opt1": "1860s",
+      "opt2": "1880s",
+      "opt3": "1870s",
+      "answer": "1880s"
+    },
+    {
+      "ques": "When the Federation Internationale de Football Association (FIFA) was founded?",
+      "opt1": "May 21, 1906",
+      "opt2": "May 21, 1904",
+      "opt3": "May 20, 1904",
+      "answer": "May 21, 1904"
+    },
+    {
+      "ques": "Who was the first president of FIFA?",
+      "opt1": "Cornelis August Wilhelm Hirschman",
+      "opt2": "Daniel Burley Woolfall",
+      "opt3": "Robert Guerin",
+      "answer": "Daniel Burley Woolfall "
+    },
+    {
+      "ques": "Who is the current president of FIFA?",
+      "opt1": "Gianni Infantino",
+      "opt2": "Sepp Blatter",
+      "opt3": "Issa Hayatou",
+      "answer": "Issa Hayatou"
+    },
+    {
+      "ques": "What is the time limit of football game?",
+      "opt1": "90 Minutes",
+      "opt2": "100 Minutes",
+      "opt3": "1 Hour",
+      "answer": "100 Minutes"
+    },
+    {
+      "ques": "The size of pitches is allowed to play football game is?",
+      "opt1": "100-120 yards long & 50-80 yards wide",
+      "opt2": "100-130 yards long & 50-100 yards wide",
+      "opt3": "90-100 yards long & 60-100 yards wide",
+      "answer": "100-130 yards long & 50-100 yards wide"
+    }
+  ]

@@ -1,0 +1,107 @@
+[
+  {
+    "ques": "What is the capital of Ireland",
+    "opt1": "Madrid",
+    "opt2": "Amsterdam",
+    "opt3": "Dublin",
+    "answer": "Dublin"
+  },
+  {
+    "ques": "What is the capital of Serbia",
+    "opt1": "Vienna",
+    "opt2": "Belgrade",
+    "opt3": "Budapest",
+    "answer": "Belgrade"
+  },
+  {
+    "ques": "What is the capital of Czech Republic",
+    "opt1": "Peking",
+    "opt2": "Stockholm",
+    "opt3": "Prague",
+    "answer": "Prague"
+  },
+  {
+    "ques": "What is the capital of Japan",
+    "opt1": "Tokyo",
+    "opt2": "Seoul",
+    "opt3": "Pyongyang",
+    "answer": "Tokyo"
+  },
+  {
+    "ques": "What is the capital of Azerbaijan",
+    "opt1": "Yerevan",
+    "opt2": "Tbilisi",
+    "opt3": "Baku",
+    "answer": "Baku"
+  },
+  {
+    "ques": "What is the capital of Turkey",
+    "opt1": "Istanbul",
+    "opt2": "Ankara",
+    "opt3": "Athens",
+    "answer": "Ankara"
+  },
+  {
+    "ques": "What is the capital of Belorussia",
+    "opt1": "Vitebsk",
+    "opt2": "Belgrade",
+    "opt3": "Minsk",
+    "answer": "Minsk"
+  },
+  {
+    "ques": "What is the capital of Ethiopia",
+    "opt1": "Kinshasa",
+    "opt2": "Addis Ababa",
+    "opt3": "Dakar",
+    "answer": "Addis Ababa"
+  },
+  {
+    "ques": "What is the capital of Poland",
+    "opt1": "Prague",
+    "opt2": "Warsaw",
+    "opt3": "Bucharest",
+    "answer": "Warsaw"
+  },
+  {
+    "ques": "What is the capital of Albania",
+    "opt1": "Luanda",
+    "opt2": "Belmopan",
+    "opt3": "Tirana",
+    "answer": "Tirana"
+  },
+  {
+    "ques": "What is the capital of USA",
+    "opt1": "New York",
+    "opt2": "Washington",
+    "opt3": "Los Angeles",
+    "answer": "Washington"
+  },
+  {
+    "ques": "What is the capital of Denmark",
+    "opt1": "Dublin",
+    "opt2": "Copenhagen",
+    "opt3": "Luxembourg",
+    "answer": "Copenhagen"
+  },
+  {
+    "ques": "What is the capital of Netherlands",
+    "opt1": "Amsterdam",
+    "opt2": "Oslo",
+    "opt3": "Wellington",
+    "answer": "Amsterdam"
+  },
+  {
+    "ques": "What is the capital of Ecuador",
+    "opt1": "Malabo",
+    "opt2": "Quito",
+    "opt3": "Asmara",
+    "answer": "Quito"
+  },
+  {
+    "ques": "What is the capital of Turkmenistan",
+    "opt1": "Ashgabat",
+    "opt2": "Ankara",
+    "opt3": "Tashkent",
+    "answer": "Ashgabat"
+  }
+]
