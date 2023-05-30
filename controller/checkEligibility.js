@@ -39,7 +39,7 @@ const checkEligibility = async (req, res) => {
     // console.log(userChoicesObj);
     // console.log(quizSubjectsObj);
 
-    if (!userChoicesObj.includes(quizSubjects[1]) || !userChoicesObj.includes(quizSubjects[2]) || !userChoicesObj.includes(quizSubjects[3])) {
+    if (!userChoicesObj.includes(quizSubjectsObj[1]) || !userChoicesObj.includes(quizSubjectsObj[2]) || !userChoicesObj.includes(quizSubjectsObj[3])) {
       console.log("Not eligible");
       return res.status(401).json({ message: "Not eligible." });
     } else {
