@@ -19,7 +19,7 @@ const allQuizes = async (req, res) =>{
           })
           .then(async ()=>{
               return client.execute(`CREATE TABLE IF NOT EXISTS ${table} 
-              (quizname text, choice1 text, choice2 text, choice3 text, prize text, PRIMARY KEY(quizname));`)
+              (quizname text, choice1 text, choice2 text, choice3 text, prize text, date text, time text, PRIMARY KEY(quizname));`)
           })
           .then(async ()=>{
             const result= await client.execute(`SELECT * FROM ${table}`);

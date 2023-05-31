@@ -57,7 +57,7 @@ const getResultInArray = (result) =>{
 
 const newQuiz = async (req, res) => {
   try {
-    const { quizname, choice1, choice2, choice3, prize } = req.body;
+    const { quizname, choice1, choice2, choice3, prize, date, time } = req.body;
 
     console.log(quizname);
 
@@ -68,12 +68,12 @@ const newQuiz = async (req, res) => {
     await client.execute(useQuery);
 
     await client.execute(
-      `CREATE TABLE IF NOT EXISTS ${table} (quizname text, choice1 text, choice2 text, choice3 text, prize text, PRIMARY KEY(quizname));`
+      `CREATE TABLE IF NOT EXISTS ${table} (quizname text, choice1 text, choice2 text, choice3 text, prize text, date text, time text, PRIMARY KEY(quizname));`
     );
 
     const result = await client.execute(
-      `INSERT INTO ${table} (quizname, choice1, choice2, choice3, prize) VALUES (?,?,?,?,?);`,
-      [quizname, choice1, choice2, choice3, prize]
+      `INSERT INTO ${table} (quizname, choice1, choice2, choice3, prize, date, time) VALUES (?,?,?,?,?,?,?);`,
+      [quizname, choice1, choice2, choice3, prize, date, time]
     );
 
     await client.execute(
