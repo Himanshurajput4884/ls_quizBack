@@ -27,6 +27,10 @@ const getUserQuizes = async (req, res)=>{
 
         console.log(response.rows);
 
+        const response1 = await client.execute(`SELECT * FROM fastquizquestiontable`);
+
+        console.log(response1.rows);
+
         return res.status(201).json({message:"success", quiz:response.rows});
     }
     catch(err){

@@ -7,7 +7,6 @@ const checkEligibility = require("../controller/checkEligibility");
 const userVerify = require("../middleware/userVerify");
 const registerQuiz = require("../controller/registerQuiz");
 const getUserQuizes = require("../controller/getUserQuizes");
-const StartNewQuiz = require("../controller/startNewQuiz");
 
 
 router.post("/newquiz", adminVerify, newQuiz);
@@ -15,8 +14,6 @@ router.post("/newquiz", adminVerify, newQuiz);
 router.get("/allquizes", allQuizes);
 
 router.post("/eligible", userVerify, checkEligibility);
-
-router.post("/startquiz", adminVerify, StartNewQuiz)
 
 router.post("/register/quiz", userVerify, registerQuiz)
 
