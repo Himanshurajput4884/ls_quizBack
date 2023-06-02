@@ -102,7 +102,7 @@ const newQuiz = async (req, res) => {
       if(result4.rows.length === 0){
         let resultQuestionTable =getRandomQuestionBank(questionBank1,questionBank2,questionBank3);
     
-        // console.log(resultQuestionTable);
+        console.log(resultQuestionTable);
     
           resultQuestionTable.map(async(v)=>{
             await client.execute(`INSERT INTO ${quizname + "QuestionTable"} (question,answer,opt1,opt2,opt3) VALUES (?,?,?,?,?)`,[v.question, v.answer, v.opt1, v.opt2, v.opt3])
