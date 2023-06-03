@@ -22,37 +22,25 @@ const authenticate = async (req, res, next) => {
     req.headers.authorization;
 
   if (!token) {
-    res.status(402).json({ message: "Token not found." });
+    return res.status(402).json({ message: "Token not found." });
   }
 
   try {
     const getToken = jwt.verify(token, process.env.SECRETKEY);
     const username = getToken.username;
 
-    client
-      .connect()
-      .then(() => {
-        console.log("Keyspace created or already exist");
-        let useQuery = `USE ${keyspace}`;
-        return client.execute(useQuery);
-      })
-      .then(() => {
-        return client.execute(`SELECT * FROM ${table} WHERE username=?;`, [
-          username,
-        ]);
-      })
-      .then((result) => {
-        if (result.rows.length === 0) {
-          return res.status(401).json({ message: "Invalid Token" });
-        }
+    await client.connect();
+    console.log("Keyspace created or already exist");
+    let useQuery = `USE ${keyspace}`;
+    await client.execute(useQuery);
 
-        req.body.username = username;
-        next();
-      })
-      .catch((err) => {
-        console.log("Error: ", err);
-        return res.status(401).json({ message: "Invalid Token" });
-      });
+    const result = await client.execute(`SELECT * FROM ${table} WHERE username=?;`, [username]);
+    if (result.rows.length === 0) {
+      return res.status(401).json({ message: "Invalid Token" });
+    }
+
+    req.body.username = username;
+    next();
   } catch (err) {
     console.log("Error: ", err);
     return res.status(401).json({ message: "Invalid Token" });
