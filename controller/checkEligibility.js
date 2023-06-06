@@ -36,8 +36,6 @@ const checkEligibility = async (req, res) => {
     const userChoicesObj = Object.values(userChoices.rows[0]);
     const quizSubjectsObj = Object.values(quizSubjects.rows[0]);
 
-    // console.log(userChoicesObj);
-    // console.log(quizSubjectsObj);
 
     if (!userChoicesObj.includes(quizSubjectsObj[1]) || !userChoicesObj.includes(quizSubjectsObj[2]) || !userChoicesObj.includes(quizSubjectsObj[3])) {
       console.log("Not eligible");
