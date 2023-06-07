@@ -31,7 +31,7 @@ const getUserQuizes = async (req, res)=>{
 
         console.log(response1.rows);
 
-        return res.status(201).json({message:"success", quiz:response.rows});
+        return res.status(201).json({message:"success", quiz:response.rows, username:username});
     }
     catch(err){
         console.log("Error: ", err);
